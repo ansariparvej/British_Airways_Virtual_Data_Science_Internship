@@ -13,15 +13,14 @@ For this task, I did web scraping using the beautifulsoup library on the followi
 from that website, I take the information I need like customer reviews and services ratings. then I analyze the data and give me this insight :
 
 ![image](https://user-images.githubusercontent.com/94748637/204498305-d8eab158-35b3-453f-81fb-1731ed92106f.png)
+
 From the wordcloud above, we can see the key of topics in customer review are flight, seat , service and time. showing that people are actively talking about their experience on the plane and the staff.
 
 but it's a good review or bad review? let's analyze more deeply.
 
-![image](https://user-images.githubusercontent.com/94748637/204512837-5b809db4-70a9-4130-a09b-a6ad4e144137.png)
-
-63.3% of our customers are dissatisfied with their flights, what are the reasons?
-
 ![image](https://github.com/ansariparvej/British_Airways_Virtual_Data_Science_Internship/blob/main/Task_1%20-%20Web%20scraping%20to%20gain%20company%20insights/task_1_presentation/1.png)
+
+66.9 % of our customers are dissatisfied with their flights, what are the reasons?
 
 on the picture above, we can see the average rating each service is low. the lower is the value of money and food and beverages, so I analyze that service and what I found are:
 
